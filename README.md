@@ -1,7 +1,3 @@
-# git-from-zero-to-internals
-git-from-zero-to-internals
-
-
 
 
 #  Mastering Git & GitHub — 
@@ -129,7 +125,7 @@ git diff
 
  5.3 Local Repository
 
-👉 Clear diagram explanation (important for recording)
+ Clear diagram explanation (important for recording)
 
 ---
 
@@ -289,19 +285,3 @@ git clone
 - Interactive rebase (optional)
 - Git hooks (intro)
 
----
-
-# 🔥 How This TOC Helps You
-
-- Smooth story flow (problem → solution → tool → mastery)
-- Perfect for recording + publishing
-- Balanced concept + hands-on + internals
-- Industry-ready structure
-
----
-
-Next step:
-We go Section 1 → full script + teaching flow + examples + analogies + whiteboard explanation
-
-Just say:
-👉 -“Start Section 1”-
